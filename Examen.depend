@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1408067917 source:c:\users\leonel\documents\c++\examen\main.cpp
+	<iostream>
+	<fstream>
+
